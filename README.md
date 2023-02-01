@@ -15,6 +15,8 @@ LoopnTime is implemented as a patch for the [Pepper eurorack module](https://git
 
 # Quickstart:
 
+![Bela pepper](https://github.com/m-w-w/pepper-loopntime/blob/main/media/pepper.png)
+
 - Create a new project and upload the files to the Bela Pepper.
 - Under `Settings`, change `block size (audio frames)` to 128.
 - Patch an incoming audio signal to `Audio In L`.
